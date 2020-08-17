@@ -1,0 +1,29 @@
+{
+	"users":[
+		{
+ 			"id": "unique-1",
+			"name": "Togrul Salmanli",
+ 			"maas": "3500",
+ 			"veziyfe": "Full Developer"
+		},
+
+ 		{
+   			"id":"unique-2",
+   			"name":"Tebriz Salmanli",
+   			"veziyfe": "Muellim",
+   			"maas":"4000"
+ 		},
+		{
+  			"id":"unique-3",
+  			"name":"Taryel Salmanli",
+  			"veziyfe":"Sahibkar",
+  			"maas":"5000"
+ 		},
+		{
+  			"id":"unique-4",
+  			"name":"Hakim Salmanov",
+  			"veziyfe":"Muhasib",
+  			"maas":"4000"
+ 		}
+	]	
+}
